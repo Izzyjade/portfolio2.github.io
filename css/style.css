@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::selection {
   color: #fff;
-  background: 6b6b6b;
+  background: #e6e6e7;
 }
 
 .fh5co-nav {
@@ -1067,7 +1067,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .btn-primary {
   background: #;
   color: #fff;
-  border: 2px solid #636363;
+  border: 0px solid #636363;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #636363 !important;
